@@ -2,5 +2,5 @@
 
 ### This repository contains NCERT books 
 
-- [Chemistry](Chemistry/README.md)
-- Mathematics
+- ### [Chemistry](Chemistry/README.md)
+- ### Mathematics
